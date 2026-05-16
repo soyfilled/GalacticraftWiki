@@ -1,5 +1,4 @@
 # Moon
-
 The **Moon** is the first celestial body that you can reach by using a [Tier 1 Rocket](/wiki/entities/vehicles/tier_1_rocket.md). Its surface consists of grayish blocks and is quite flat and bombarded with craters. As you walk on the surface, footprints are left behind. [Meteors](/wiki/blocks/environment/fallen_meteor.md) may fall on the Moon.
 
 The Moon's gravity is 18% of [The Overworld](./overworld.md)'s and affects players, mobs, arrows, and dropped items. The fall damage is also 18% of Overworld's; you need to fall more than 16m to start taking damage, unlike the 3m on the Overworld (`3m / 0.18 ≈ 16.67m`), and more than 127m for a fatal fall (`(20HP / 0.18) + 16.67m ≈ 127.78m`).
